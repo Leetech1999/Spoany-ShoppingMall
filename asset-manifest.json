@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Spoany-ShoppingMall/static/css/main.e4a2d268.css",
+    "main.js": "/Spoany-ShoppingMall/static/js/main.a693eee3.js",
+    "index.html": "/Spoany-ShoppingMall/index.html",
+    "main.e4a2d268.css.map": "/Spoany-ShoppingMall/static/css/main.e4a2d268.css.map",
+    "main.a693eee3.js.map": "/Spoany-ShoppingMall/static/js/main.a693eee3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4a2d268.css",
+    "static/js/main.a693eee3.js"
+  ]
+}
