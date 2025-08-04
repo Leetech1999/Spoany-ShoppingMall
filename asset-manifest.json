@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Spoany-ShoppingMall/static/css/main.e4a2d268.css",
-    "main.js": "/Spoany-ShoppingMall/static/js/main.35d88d41.js",
+    "main.js": "/Spoany-ShoppingMall/static/js/main.07fd6827.js",
     "index.html": "/Spoany-ShoppingMall/index.html",
     "main.e4a2d268.css.map": "/Spoany-ShoppingMall/static/css/main.e4a2d268.css.map",
-    "main.35d88d41.js.map": "/Spoany-ShoppingMall/static/js/main.35d88d41.js.map"
+    "main.07fd6827.js.map": "/Spoany-ShoppingMall/static/js/main.07fd6827.js.map"
   },
   "entrypoints": [
     "static/css/main.e4a2d268.css",
-    "static/js/main.35d88d41.js"
+    "static/js/main.07fd6827.js"
   ]
 }
